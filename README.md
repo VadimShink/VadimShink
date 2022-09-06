@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 💪 I like to write code
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning SwiftUI + Combine
 - 🥅 I am constantly learning new things
 
 
